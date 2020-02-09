@@ -1,0 +1,37 @@
+﻿  TargetApplication.cpp
+C:\Users\Jannik\source\repos\AntiCheatPoC\TargetApplication\TargetApplication\apihook.h(19,22): warning C4838:  conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\Jannik\source\repos\AntiCheatPoC\TargetApplication\TargetApplication\apihook.h(19,22): warning C4309:  'initializing': truncation of constant value
+C:\Users\Jannik\source\repos\AntiCheatPoC\TargetApplication\TargetApplication\apihook.h(19,28): warning C4838:  conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\Jannik\source\repos\AntiCheatPoC\TargetApplication\TargetApplication\apihook.h(19,28): warning C4309:  'initializing': truncation of constant value
+C:\Users\Jannik\source\repos\AntiCheatPoC\TargetApplication\TargetApplication\apihook.h(19,34): warning C4838:  conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\Jannik\source\repos\AntiCheatPoC\TargetApplication\TargetApplication\apihook.h(19,34): warning C4309:  'initializing': truncation of constant value
+C:\Users\Jannik\source\repos\AntiCheatPoC\TargetApplication\TargetApplication\apihook.h(19,40): warning C4838:  conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\Jannik\source\repos\AntiCheatPoC\TargetApplication\TargetApplication\apihook.h(19,40): warning C4309:  'initializing': truncation of constant value
+C:\Users\Jannik\source\repos\AntiCheatPoC\TargetApplication\TargetApplication\apihook.h(19,46): warning C4838:  conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\Jannik\source\repos\AntiCheatPoC\TargetApplication\TargetApplication\apihook.h(19,46): warning C4309:  'initializing': truncation of constant value
+C:\Users\Jannik\source\repos\AntiCheatPoC\TargetApplication\TargetApplication\apihook.h(19,52): warning C4838:  conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\Jannik\source\repos\AntiCheatPoC\TargetApplication\TargetApplication\apihook.h(19,52): warning C4309:  'initializing': truncation of constant value
+C:\Users\Jannik\source\repos\AntiCheatPoC\TargetApplication\TargetApplication\apihook.h(34,18): warning C4309:  '=': truncation of constant value
+C:\Users\Jannik\source\repos\AntiCheatPoC\TargetApplication\TargetApplication\apihook.h(53,22): warning C4838:  conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\Jannik\source\repos\AntiCheatPoC\TargetApplication\TargetApplication\apihook.h(53,22): warning C4309:  'initializing': truncation of constant value
+C:\Users\Jannik\source\repos\AntiCheatPoC\TargetApplication\TargetApplication\apihook.h(53,28): warning C4838:  conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\Jannik\source\repos\AntiCheatPoC\TargetApplication\TargetApplication\apihook.h(53,28): warning C4309:  'initializing': truncation of constant value
+C:\Users\Jannik\source\repos\AntiCheatPoC\TargetApplication\TargetApplication\apihook.h(53,34): warning C4838:  conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\Jannik\source\repos\AntiCheatPoC\TargetApplication\TargetApplication\apihook.h(53,34): warning C4309:  'initializing': truncation of constant value
+C:\Users\Jannik\source\repos\AntiCheatPoC\TargetApplication\TargetApplication\apihook.h(53,40): warning C4838:  conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\Jannik\source\repos\AntiCheatPoC\TargetApplication\TargetApplication\apihook.h(53,40): warning C4309:  'initializing': truncation of constant value
+C:\Users\Jannik\source\repos\AntiCheatPoC\TargetApplication\TargetApplication\apihook.h(53,46): warning C4838:  conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\Jannik\source\repos\AntiCheatPoC\TargetApplication\TargetApplication\apihook.h(53,46): warning C4309:  'initializing': truncation of constant value
+C:\Users\Jannik\source\repos\AntiCheatPoC\TargetApplication\TargetApplication\apihook.h(53,52): warning C4838:  conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\Jannik\source\repos\AntiCheatPoC\TargetApplication\TargetApplication\apihook.h(53,52): warning C4309:  'initializing': truncation of constant value
+C:\Users\Jannik\source\repos\AntiCheatPoC\TargetApplication\TargetApplication\apihook.h(58,18): warning C4309:  '=': truncation of constant value
+C:\Users\Jannik\source\repos\AntiCheatPoC\TargetApplication\TargetApplication\TargetApplication.cpp(68,8): warning C4101:  'dwLastError': unreferenced local variable
+C:\Users\Jannik\source\repos\AntiCheatPoC\TargetApplication\TargetApplication\TargetApplication.cpp(176,12): warning C4101:  'dwStartAddr': unreferenced local variable
+C:\Users\Jannik\source\repos\AntiCheatPoC\TargetApplication\TargetApplication\TargetApplication.cpp(175,18): warning C4101:  'usSectionName': unreferenced local variable
+C:\Users\Jannik\source\repos\AntiCheatPoC\TargetApplication\TargetApplication\TargetApplication.cpp(174,21): warning C4101:  'mi': unreferenced local variable
+  Generating code
+  2 of 17 functions (11.8%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  TargetApplication.vcxproj -> C:\Users\Jannik\source\repos\AntiCheatPoC\TargetApplication\Release\TargetApplication.exe

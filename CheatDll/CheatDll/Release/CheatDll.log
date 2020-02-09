@@ -1,0 +1,7 @@
+﻿  pch.cpp
+  dllmain.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 2 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  CheatDll.vcxproj -> C:\Users\Jannik\source\repos\AntiCheatPoC\CheatDll\Release\CheatDll.dll
